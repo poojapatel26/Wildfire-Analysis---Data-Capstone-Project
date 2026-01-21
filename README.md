@@ -1,7 +1,5 @@
 # Wildfire-Analysis---Data-Capstone-Project
 
-# Wildfire Analysis - Data Science Capstone Project
-
 ## Project Description
 This data science capstone project analyzes historical wildfire data from 1992 to 2020 across the United States. The primary focus is to identify patterns, understand the main causes of wildfires, and develop data-driven recommendations for prevention and resource allocation strategies. By examining decades of wildfire incidents, this analysis aims to provide actionable insights that can help reduce wildfire occurrences and improve response effectiveness.
 
@@ -70,7 +68,7 @@ Create an interactive and comprehensive analysis to summarize the research on wi
 
 The data pre-processing and data cleaning were performed using Python.
 
-**Detailed Notebook**: [Link to Wildfire_Analysis_Final_Project.ipynb]
+**Detailed Notebook**: [https://github.com/poojapatel26/Wildfire-Analysis---Data-Capstone-Project/blob/main/Wildfire_Analysis_Final_Project.ipynb%20-%20Colaboratory.pdf]
 
 ### Data Cleaning Steps:
 1. **Handling Missing Values**: Identified and handled missing data in key columns such as fire cause, location, and severity metrics
@@ -226,9 +224,8 @@ Wildfire-Analysis-Data-Capstone-Project/
 │
 ├── Wildfire_Analysis_Final_Project.ipynb    # Main analysis notebook
 ├── Analysis_Results.pdf                      # Detailed findings document
-├── Final_Poster (1).jpg                      # Visual project summary
+├── Final_Poster (1).jpg                      # Poster 
 ├── README.md                                 # Project documentation
-└── data/                                     # Dataset folder (if applicable)
 ```
 
 ## Key Deliverables
