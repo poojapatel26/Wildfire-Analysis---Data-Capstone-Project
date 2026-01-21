@@ -16,6 +16,31 @@ In this project, my primary focus is on understanding wildfire patterns and iden
 
 5. **Predictive Insights**: Develop insights that can inform prevention strategies and resource allocation for wildfire management.
 
+## Data Overview
+
+The dataset represents wildfire incidents across the United States from 1992 to 2020. After examining the data fields, the dataset generally provides the following key information:
+
+### Fire Incident Details:
+- **Fire Identification**: Unique identifiers for each wildfire incident
+- **Temporal Information**: Discovery date, containment date, fire year, fire season
+- **Geographic Information**: State, county, latitude, longitude coordinates
+- **Fire Characteristics**: Fire size (acres), fire cause, fire type
+
+### Key Data Dimensions:
+- **Time Period**: 28 years (1992-2020)
+- **Geographic Coverage**: All 50 US states
+- **Incident Count**: [Insert total number of wildfire incidents analyzed]
+- **Cause Categories**: Lightning, human activity, equipment use, arson, debris burning, and others
+
+## Technologies Used
+
+- **Python 3.x**: Primary programming language
+- **Pandas**: Data manipulation and analysis
+- **NumPy**: Numerical computations
+- **Matplotlib & Seaborn**: Static data visualizations
+- **Plotly**: Interactive visualizations
+- **Jupyter Notebook**: Analysis documentation and presentation
+
 ## METHODOLOGY
 
 ### Business Demand Analysis
@@ -80,21 +105,7 @@ The data pre-processing and data cleaning were performed using Python.
 5. **Data Type Conversion**: Converted data types for efficient analysis
 6. **Feature Engineering**: Created additional features such as fire season, decade classification, and severity categories
 
-## Data Overview
 
-The dataset represents wildfire incidents across the United States from 1992 to 2020. After examining the data fields, the dataset generally provides the following key information:
-
-### Fire Incident Details:
-- **Fire Identification**: Unique identifiers for each wildfire incident
-- **Temporal Information**: Discovery date, containment date, fire year, fire season
-- **Geographic Information**: State, county, latitude, longitude coordinates
-- **Fire Characteristics**: Fire size (acres), fire cause, fire type
-
-### Key Data Dimensions:
-- **Time Period**: 28 years (1992-2020)
-- **Geographic Coverage**: All 50 US states
-- **Incident Count**: [Insert total number of wildfire incidents analyzed]
-- **Cause Categories**: Lightning, human activity, equipment use, arson, debris burning, and others
 
 
 ## Key Insights
@@ -294,37 +305,11 @@ Based on average fire sizes by cause (in acres):
 
 ---
 
-## Implementation Priority Matrix
+**Data Source**: Fire Program Analysis (FPA) Database, 1992-2020
+**Analysis Period**: 28 years covering 1.88 million geo-referenced wildfire records
+**Primary Focus States**: California, Georgia, and Texas (highest fire intensity states)
+**Best Predictive Model**: Random Forest with hyperparameter tuning (79.92% accuracy)
 
-### Immediate Actions (0-6 months):
-1. Launch public education campaign targeting debris burning safety
-2. Pre-position resources in CA, GA, and TX before May
-3. Implement enhanced electrical utility inspections
-4. Establish burn ban protocols for peak season
-
-### Short-term Actions (6-12 months):
-1. Develop community fire prevention programs
-2. Deploy early warning systems in high-risk areas
-3. Create seasonal restriction frameworks
-4. Establish multi-state coordination protocols
-
-### Long-term Actions (1-3 years):
-1. Complete electrical infrastructure upgrades
-2. Deploy comprehensive AI-powered detection systems
-3. Implement advanced machine learning prediction models
-4. Develop real-time wildfire cause prediction platform
-
----
-
-
-## Technologies Used
-
-- **Python 3.x**: Primary programming language
-- **Pandas**: Data manipulation and analysis
-- **NumPy**: Numerical computations
-- **Matplotlib & Seaborn**: Static data visualizations
-- **Plotly**: Interactive visualizations
-- **Jupyter Notebook**: Analysis documentation and presentation
 
 ## Project Structure
 
@@ -336,11 +321,6 @@ Wildfire-Analysis-Data-Capstone-Project/
 ├── Final_Poster (1).jpg                      # Poster 
 ├── README.md                                 # Project documentation
 ```
-
-**Data Source**: Fire Program Analysis (FPA) Database, 1992-2020
-**Analysis Period**: 28 years covering 1.88 million geo-referenced wildfire records
-**Primary Focus States**: California, Georgia, and Texas (highest fire intensity states)
-**Best Predictive Model**: Random Forest with hyperparameter tuning (79.92% accuracy)
 
 ## Key Deliverables
 
