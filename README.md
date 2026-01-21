@@ -1,4 +1,4 @@
-# Wildfire-Analysis---Data-Capstone-Project
+# Wildfire-Analysis : Data-Capstone-Project
 
 ## Project Description
 This data science capstone project analyzes historical wildfire data from 1992 to 2020 across the United States. The primary focus is to identify patterns, understand the main causes of wildfires, and develop data-driven recommendations for prevention and resource allocation strategies. By examining decades of wildfire incidents, this analysis aims to provide actionable insights that can help reduce wildfire occurrences and improve response effectiveness.
