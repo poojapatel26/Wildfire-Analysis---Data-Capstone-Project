@@ -303,13 +303,6 @@ Based on average fire sizes by cause (in acres):
 - Create regional Southeast wildfire prevention network
 - Share resources and personnel during peak season across state lines
 
----
-
-**Data Source**: Fire Program Analysis (FPA) Database, 1992-2020
-**Analysis Period**: 28 years covering 1.88 million geo-referenced wildfire records
-**Primary Focus States**: California, Georgia, and Texas (highest fire intensity states)
-**Best Predictive Model**: Random Forest with hyperparameter tuning (79.92% accuracy)
-
 
 ## Project Structure
 
