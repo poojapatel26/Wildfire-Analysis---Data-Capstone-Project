@@ -246,11 +246,3 @@ Wildfire-Analysis-Data-Capstone-Project/
 ## Acknowledgments
 
 This project was completed as part of a Data Science Capstone program, analyzing publicly available wildfire data to contribute to wildfire prevention and management strategies in the United States.
-
-## License
-
-This project is available for educational and research purposes.
-
----
-
-**Note**: This analysis is based on historical wildfire data from 1992-2020 and is intended to inform prevention strategies and policy decisions. For current wildfire information and emergency response, please refer to official sources such as the National Interagency Fire Center (NIFC) and state emergency management agencies.
