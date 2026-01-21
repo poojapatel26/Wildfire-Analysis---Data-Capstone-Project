@@ -68,7 +68,7 @@ Create an interactive and comprehensive analysis to summarize the research on wi
 
 The data pre-processing and data cleaning were performed using Python.
 
-**Detailed Notebook**: [https://github.com/poojapatel26/Wildfire-Analysis---Data-Capstone-Project/blob/main/Wildfire_Analysis_Final_Project.ipynb%20-%20Colaboratory.pdf]
+**Detailed Notebook**: [!https://github.com/poojapatel26/Wildfire-Analysis---Data-Capstone-Project/blob/main/Wildfire_Analysis_Final_Project.ipynb%20-%20Colaboratory.pdf]
 
 ### Data Cleaning Steps:
 1. **Handling Missing Values**: Identified and handled missing data in key columns such as fire cause, location, and severity metrics
